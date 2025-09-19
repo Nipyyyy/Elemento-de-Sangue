@@ -14,25 +14,30 @@ O design conta com **5 seções principais**, cada uma focada em um aspecto impo
 ### 🔁 Fluxo
 - Explicação breve sobre o **fluxo do Sangue**.  
 - Aborda **criaturas, rituais e a relíquia (O Diabo)**.  
+![Fluxo](Fluxo.png)
 
 ### 👹 Monstros
 - Galeria com os principais e mais **fodas monstros de Sangue**.  
 - Baseado nos que aparecem tanto no **livro** quanto nas **lives**.  
+![Monstros](MONSTROS.png)
 
 ### ✡️ Rituais
 - Lista com os principais e melhores **rituais de Sangue**.  
 - Destaque para os **usuários notáveis** desse elemento.  
+![Rituais](Rituais.png)
 
-### 🩸 Pacto
+### 🩸 Pactos
 - Explicação sobre como funcionam os **pactos com O Diabo**.  
 - Destaque para **Henri** e sua relação com o elemento.  
 - Inclui também um **vídeo do Kian e Henri** relacionado ao tema.  
+![Pactos](Pactos.png)
 
 ### 😈 O Diabo
 - Página dedicada totalmente ao **Diabo**.  
 - História, habilidades e influência no Sangue.  
 - Explora também a relação entre **O Anfitrião e O Diabo**, mostrando eles como “melhores amigos”.  
 - Menção ao **Deus da Morte** (o velho insuportável pra krlh).  
+![Diabo](Diabo.png)
 
 ---
 
@@ -50,7 +55,4 @@ O design conta com **5 seções principais**, cada uma focada em um aspecto impo
 
 ## 👤 Créditos
 - **Universo & Lore**: [Cellbit (Rafael Lange)](https://www.twitch.tv/cellbit)  
-- **Designer: Nipy**
-
-
-
+- **Design & Ideia**: Projeto autoral inspirado no RPG.  

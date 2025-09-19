@@ -50,4 +50,7 @@ O design conta com **5 seções principais**, cada uma focada em um aspecto impo
 
 ## 👤 Créditos
 - **Universo & Lore**: [Cellbit (Rafael Lange)](https://www.twitch.tv/cellbit)  
-- **Desig**
+- **Designer: Nipy**
+
+
+
